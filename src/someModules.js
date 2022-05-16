@@ -1,10 +1,10 @@
 class SomeModule {
   constructor() {
-    console.log('Hello World')
+    console.log('Hello city')
   }
 
   test() {
-    console.log('Test')
+    console.log('Testsssdsss')
   }
 }
 
