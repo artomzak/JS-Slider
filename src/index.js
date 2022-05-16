@@ -1,4 +1,4 @@
 import { SomeModule } from "./someModules";
-import './test.css';
+import './style.css';
 const instance = new SomeModule();
 instance.test();
